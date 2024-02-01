@@ -1,0 +1,40 @@
+GIT 
+
+Criando o repositório na maquina
+echo "# numero-secreto" >> README.md
+git init -- Inicia o Git Local
+git add README.md -- Adiciona um arquivo
+git commit -m "first commit" -- Comita uma alteração na maquina local
+git -config --global user.email "your@example.com"
+git config --global user.name "Your Name"
+git branch -M main
+git remote add origin https://github.com/rodrigoalura87/numero-secreto.git
+git push -u origin main -- Envia uma alteração para o repositório remoto
+
+Repositório já criado na maquina
+git remote add origin https://github.com/rodrigoalura87/numero-secreto.git
+git branch -M main
+git push -u origin main
+
+
+arquivos para ignorar
+.gitignore
+
+trechos de codigo
+gist
+
+comandos do Git no Terminal
+
+git clone + url do repositório
+git status -- Para saber as alterações realizadas
+git add . -- Para adicionar todos os arquivos 
+git add "Nome do arquivo" -- Para adicionar 1 arquivo 
+git commit -m "Nome do commit" -- Para comitar uma alteração na maquina local
+git push "Nome do repositório" main -- Local onde o comite irá atualizar remoto
+git pull "Nome do repositório" main -- baixar os novos comites realizados para o repositório local
+git log -- histórico de commites
+git remote -v -- Para verificar os repositórios de acesso remoto
+git branch -M -- Branch principal
+git revert "id do commit a ser revertido" -- Reverte o comite realizado
+git reset --hard -- Deletar um commit (precisar ser o id do commit anterior)
+git commit --amend -m "Texto para ser alterado" -- Alterando o commit
