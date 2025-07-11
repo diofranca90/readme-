@@ -37,3 +37,8 @@ Robot Framework é uma estrutura genérica de automação de testes de software 
 É uma ferramenta de código aberto, extensível e escrita com linguagem Python.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Linguagens de programação: Java, JavaScript.
+Ferramentas e tecnologias: Selenium, Cucumber, Cypress, BDD (Behavior-Driven Development), APIs REST, JUnit.
+Conhecimentos em metodologias: Ágil, DevOps.
+
