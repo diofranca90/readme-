@@ -41,4 +41,6 @@ Robot Framework é uma estrutura genérica de automação de testes de software 
 Linguagens de programação: Java, JavaScript.
 Ferramentas e tecnologias: Selenium, Cucumber, Cypress, BDD (Behavior-Driven Development), APIs REST, JUnit.
 Conhecimentos em metodologias: Ágil, DevOps.
+O Maven ferramenta de automação de construção e gerenciamento de projetos
+JDK (Java Development Kit) conjunto de ferramentas e bibliotecas fornecido pela Oracle para desenvolver, compilar e executar programas Java.
 
